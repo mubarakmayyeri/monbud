@@ -33,8 +33,8 @@ def recommend_portfolio(amount, goal):
 def main():
 
     # Main page content
-    st.set_page_config(page_title='munBud - Your finance buddy', page_icon="	:money_mouth_face:",)
-    st.title("**munBud** - _Your finance buddy_ :money_mouth_face: ")
+    st.set_page_config(page_title='monBud - Your finance buddy', page_icon="	:money_mouth_face:",)
+    st.title("**monBud** - _Your finance buddy_ :money_mouth_face: ")
     st.write("---")
 
     # Sidebar options
@@ -86,9 +86,9 @@ def main():
     else:
         st.write('### About')
         st.markdown('''
-        *munBud* is developed by **Mubarak Mayyeri** (AI developer, Data Scientist, Python Backend developer)
+        *monBud* is developed by **Mubarak Mayyeri** (AI developer, Data Scientist, Python Backend developer)
 
-        * Github Repo of munBud - https://github.com/mubarakmayyeri/munbud
+        * Github Repo of monBud - https://github.com/mubarakmayyeri/monbud
         * Connect me on LinkedIn - https://www.linkedin.com/in/mubarakmayyeri/
 
         
