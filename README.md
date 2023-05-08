@@ -2,6 +2,8 @@
 
 `monBud` is a Streamlit application that helps you manage your personal budget and provides investment advice based on your financial goals.
 
+[Mange Your Personal Finance](https://monbud.streamlit.app/)
+
 ## Table of Contents
 - [Description](#description)
 - [Functionalities](#functionalities)
