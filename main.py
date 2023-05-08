@@ -88,8 +88,8 @@ def main():
         st.markdown('''
         *munBud* is developed by **Mubarak Mayyeri** (AI developer, Data Scientist, Python Backend developer)
 
-        * Github Repo of munBud - https://github.com/mubarakmayyeri/munbud'
-        * Connect me on LinkedIn - https://www.linkedin.com/in/mubarakmayyeri/'
+        * Github Repo of munBud - https://github.com/mubarakmayyeri/munbud
+        * Connect me on LinkedIn - https://www.linkedin.com/in/mubarakmayyeri/
 
         
         _If you want to contribute or suggest new features use the links provided_. Let\'s work together and achieve our financial goals.
